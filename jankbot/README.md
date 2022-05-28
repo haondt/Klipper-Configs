@@ -20,3 +20,4 @@
 * BTT SKR 2 Manual: https://github.com/bigtreetech/SKR-2/blob/master/Hardware/BIGTREETECH%20SKR%202%20user%20manual.pdf
 * Klipper command templates (gcode macros): https://www.klipper3d.org/Command_Templates.html
 * Klipper status reference (available variables): https://www.klipper3d.org/Status_Reference.html
+* Klipper extended
