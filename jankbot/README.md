@@ -12,3 +12,8 @@
 * Z motors driven seperately
 * XY homing: sensorless
 * Z homing: BLTouch Clone
+
+# Links
+* Config originally built off of https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-skr-2.cfg
+* Klipper config reference: https://www.klipper3d.org/Config_Reference.html
+* Jinja2 template reference: https://jinja.palletsprojects.com/en/2.10.x/templates/
